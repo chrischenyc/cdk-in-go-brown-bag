@@ -81,7 +81,7 @@ func main() {
 	// inject env vars: dev, staging, prod
 	NewCdkInGoBrownBagStack(app, "CdkInGoBrownBagStack", &CdkInGoBrownBagStackProps{
 		awscdk.StackProps{
-			StackName: jsii.String("cdk-demo-chris"),
+			StackName: jsii.String("cdk-demo-in-go"),
 			Env:       env(),
 			Tags: &map[string]*string{
 				"Environment": jsii.String("dev"),
