@@ -1,11 +1,13 @@
 # CDK 2 in Go brown-bag demo
 
-This is a CDK 2 project with Go.
-
+This is a CDK 2 project in Go. I used it in one brown-bag session to introduce CDK to an engineering organisation.
 
 
 ## talk slides
 [presentation slides](./slides.pdf)
+
+## companion blog
+[Using CDK with Go - a recent brown bag talk and some thoughts](https://www.capturedlabs.com/using-cdk-with-go-a-recent-brown-bag-talk-and-some-thoughts)
 
 
 ## Useful commands
